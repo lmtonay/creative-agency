@@ -1,0 +1,28 @@
+.login .logo {
+  width: 160px;
+  display: block;
+  margin: 50px auto;
+}
+
+.login .login-form {
+  padding: 100px 20px;
+}
+
+.login .login-form .button {
+  width: 100%;
+  border-radius: 2em;
+  border: 1px solid #d9d9d9;
+  height: 40px;
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 3px;
+  cursor: pointer;
+}
+
+.login .login-form .button .btn-txt {
+  font-weight: 500;
+  font-size: 15px;
+  margin: 0 auto;
+}
