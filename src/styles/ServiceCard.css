@@ -1,0 +1,27 @@
+.service-card {
+  margin: 10px;
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+
+.service-card .service-card-image {
+  width: 80px;
+  margin: 0 auto;
+}
+
+.service-card .service-card-image img {
+  width: 100%;
+}
+
+.service-card .service-card-content {
+  padding: 20px 0;
+}
+
+.service-card .service-card-content h5 {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.service-card .service-card-content small {
+  font-size: 13px;
+}

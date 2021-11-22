@@ -1,0 +1,26 @@
+footer {
+  background-color: #fbd062;
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+
+footer h3 {
+  font-weight: 600;
+  font-size: 35px;
+}
+
+footer .left {
+  padding-right: 100px;
+}
+
+footer form input, footer form textarea{
+  width: 100%;
+  padding: 15px 30px;
+  outline: 0;
+  border: 0;
+  border-radius: 5px;
+}
+
+footer form textarea {
+  height: 300px;
+}

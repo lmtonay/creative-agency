@@ -1,0 +1,11 @@
+.feedback{
+  margin: 100px 0;
+}
+
+.feedback h3 {
+  font-weight: 600;
+}
+
+.feedback .text-primary {
+  color: #171B4E !important;
+}

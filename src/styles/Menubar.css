@@ -1,0 +1,7 @@
+nav .nav-link {
+  margin: 0 10px;
+}
+
+.active {
+  font-weight: 600;
+}
