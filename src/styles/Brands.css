@@ -4,3 +4,17 @@
   margin: 100px auto;
   margin-top: 130px;
 }
+
+@media screen and (max-width: 767px) {
+  .brands img {
+    width: 180px;
+    margin-bottom: 20px;
+  }
+  img.netflix {
+    width: 160px;
+  }
+  img.uber {
+    width: 120px;
+    margin-top: -15px;
+  }
+}

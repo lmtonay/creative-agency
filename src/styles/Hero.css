@@ -14,3 +14,22 @@
   margin: 20px 0;
   font-weight: 450;
 }
+
+@media screen and (max-width: 991px) {
+  .hero .left {
+    margin-right: 0;
+  }
+  .hero {
+    text-align: center;
+  }
+  .hero .hero-title {
+    margin-bottom: 30px;
+  }
+  .hero span {
+    margin-bottom: 40px;
+  }
+  .hero button {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+}

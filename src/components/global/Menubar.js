@@ -11,9 +11,9 @@ export default function Menubar() {
         <Navbar.Brand>
           <img src={logo} alt="Logo" width="150" />
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Toggle className="shadow-none" aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="ms-auto d-flex align-items-center">
+          <Nav className="ms-auto items d-flex align-items-center">
             <Nav.Link className="active nav-link">Home</Nav.Link>
             <Nav.Link className="nav-link">Our Portfolio</Nav.Link>
             <Nav.Link className="nav-link">Our Team</Nav.Link>

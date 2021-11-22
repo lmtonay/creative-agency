@@ -24,3 +24,13 @@ footer form input, footer form textarea{
 footer form textarea {
   height: 300px;
 }
+
+@media screen and (max-width: 500px) {
+  footer h3 {
+    font-weight: 600;
+    font-size: 30px;
+  }
+  footer .left {
+    padding-right: 0px;
+  }
+}

@@ -8,11 +8,11 @@ export default function Footer() {
     <footer>
       <Container>
         <Row>
-          <Col xs={12} md={6} className="left">
+          <Col xs={12} md={6} className="left mb-3">
             <h3>Let us handle your project, professionally</h3>
             <small>With well written codes, we build amazing apps for all platforms, mobile and web apps in general.</small>
           </Col>
-          <Col xs={12} md={6} className="right">
+          <Col xs={12} md={6} className="right mb-3">
             <form>
               <input placeholder="Your/Your Company Name" className="mb-3" type="text" />
               <input placeholder="Your email address" className="mb-3" type="email" />

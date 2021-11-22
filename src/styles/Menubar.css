@@ -5,3 +5,12 @@ nav .nav-link {
 .active {
   font-weight: 600;
 }
+
+@media screen and (max-width: 991px) {
+  nav .nav-link{
+    margin: 2px 0;
+  }
+  .items {
+    margin-top: 10px;
+  }
+}
